@@ -29,13 +29,13 @@ git clone https://github.com/Ali-Meh619/FKAN.git
 
 If you find our paper and code useful, please kindly cite our paper as follows:
 ```bibtex
-@INPROCEEDINGS{samba,
-  author={Mehrabian, Ali and Mojarad Adi, Parsa and Heidari, Moein and Hacihaliloglu, Ilker},
-  booktitle={Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)}, 
-  title={Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks}, 
-  year={2025},
-address={Hyderabad, India},
-month={Apr.}}
+@article{fkan,
+author = {Mehrabian, Ali and Mojarad Adi, Parsa and Heidari, Moein and Hacihaliloglu, Ilker},
+title = {Implicit Neural Representations with {F}ourier {K}olmogorov-{A}rnold Networks},
+journal = {\rm{accepted for publication in} \textit{Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)}},
+year = {2025},
+month={Hyderabad, India, Apr.}
+}
 ```
 
 ## Contact
