@@ -16,6 +16,7 @@ matplotlib\
 opencv\
 skimage\
 torchvision\
+torchmetrics\
 pytorch
 
 Then clone the repository as follows:
