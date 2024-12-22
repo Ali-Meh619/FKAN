@@ -37,7 +37,7 @@ The file "Execution" contains the code for running the model in the training and
 If you find our paper and code useful, please kindly cite our paper as follows:
 ```bibtex
 @INPROCEEDINGS{samba,
-  author={Mehrabian, Ali and Mojarad Adi, Parsa and Heidary, Moein and Hacihaliloglu, Ilker},
+  author={Mehrabian, Ali and Mojarad Adi, Parsa and Heidari, Moein and Hacihaliloglu, Ilker},
   booktitle={Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)}, 
   title={Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks}, 
   year={2025},
