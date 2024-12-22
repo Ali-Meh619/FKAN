@@ -1,27 +1,28 @@
-# SAMBA: A Graph-Mamba Approach for Stock Price Prediction
+# FKAN: Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks
 
 <p align="center">
   <img src="abc.PNG" alt="Title of the Picture">
   <br>
 </p>
 
-This is the official Pytorch implementation of the SAMBA, which is proposed in our paper ["Mamba Meets Finacial Markets: A Graph-Mamba Approach for Stock Price Prediction"](https://arxiv.org/pdf/2410.03707) accepted for publication in *IEEE ICASSP*, 2025.
+This is the official Pytorch implementation of the FKAN, which is proposed in our paper ["Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks"](https://arxiv.org/pdf/2409.09323) accepted for publication in *IEEE ICASSP*, 2025.
 
 ## Installation
 
 First, check the requirements as follows:\
 python\
 numpy\
-pandas\
+matplotlib\
+opencv\
+skimage\
+torchvision\
 pytorch
 
 Then clone the repository as follows:
 ```shell
-git clone https://github.com/Ali-Meh619/SAMBA.git
+git clone https://github.com/Ali-Meh619/FKAN.git
 ```
 
-## Dataset
-We utilize three real-world datasets from the US stock market with 82 daily stock features: NASDAQ, New York Stock Exchange (NYSE), and Dow Jones Industrial Average (DJIA), covering the period from January 2010 to November 2023.
 
 ## Description
 
@@ -36,9 +37,9 @@ The file "Execution" contains the code for running the model in the training and
 If you find our paper and code useful, please kindly cite our paper as follows:
 ```bibtex
 @INPROCEEDINGS{samba,
-  author={Mehrabian, Ali and Hoseinzade, Ehsan and Mazloum, Mahdi and Chen, Xiaohong},
+  author={Mehrabian, Ali and Mojarad Adi, Parsa and Heidary, Moein and Hacihaliloglu, Ilker},
   booktitle={Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)}, 
-  title={Mamba Meets Finacial Markets: {A} Graph-{M}amba Approach for Stock Price Prediction}, 
+  title={Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks}, 
   year={2025},
 address={Hyderabad, India},
 month={Apr.}}
