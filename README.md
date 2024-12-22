@@ -1,7 +1,7 @@
 # FKAN: Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks
 
 <p align="center">
-  <img src="abc.PNG" alt="Title of the Picture">
+  <img src="arch.png" alt="Title of the Picture">
   <br>
 </p>
 
